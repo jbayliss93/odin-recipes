@@ -1,2 +1,1 @@
-i guess im supposed to write stuff here
-so i am writing stuff here
+It took me quite some time to figure out how to push this to git but we're finally here. I'm currently writing this to remind myself I need to take more time to understand the interactions between the terminal and git. Maybe when I save this I can just 'git push' and it'll save. I guess we'll find out.
